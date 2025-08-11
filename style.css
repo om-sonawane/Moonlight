@@ -203,7 +203,7 @@ p {
 
 /* Hero Section - Home Page */
 .hero-section {
-  background: url("/public/cafe2.jpg") no-repeat center center / cover;
+  background: url("public/cafe2.jpg") no-repeat center center / cover;
   color: var(--white);
   text-align: center;
   padding: 150px 20px;
@@ -284,15 +284,15 @@ p {
 }
 
 .page-hero-section.menu-hero {
-  background: url("/public/menu.jpg") no-repeat center center / cover;
+  background: url("public/menu.jpg") no-repeat center center / cover;
 }
 
 .page-hero-section.about-hero {
-  background: url("/public/contact.jpg") no-repeat center center / cover;
+  background: url("public/contact.jpg") no-repeat center center / cover;
 }
 
 .page-hero-section.contact-hero {
-  background: url("/public/about.jpg") no-repeat center center / cover;
+  background: url("public/about.jpg") no-repeat center center / cover;
 }
 
 .page-hero-section::before {
