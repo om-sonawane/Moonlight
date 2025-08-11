@@ -564,7 +564,8 @@ p {
 
 .story-image-wrapper {
   flex: 1;
-  min-width: 300px;
+  min-width: 600px;
+  min-height: 250px;
   position: relative;
   overflow: hidden;
   border-radius: 8px;
